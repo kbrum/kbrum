@@ -1,9 +1,15 @@
-- 👋 Hi, I’m kayky
-- Im a computer science estudent
-- Now im learning Java
+🇧🇷
 
+Olá, meu nome é Kayky Azevedo
+Tenho 22 anos
+Moro em Macapá - AP - Brasil
+Sou estudante universitário
+Seja bem vindo ao meu perfil!
 
-<!---
-kbrum/kbrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🇺🇸
+
+Hello! My name is Kayky Azevedo
+I'm 22 years old
+I live in Macapá, state of Amapá, Brazil
+I'm a college student
+Welcome to my profile!
